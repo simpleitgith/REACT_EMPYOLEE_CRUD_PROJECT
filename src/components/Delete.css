@@ -1,0 +1,27 @@
+/* .bttn{
+    margin-right: 5px;
+} */
+
+.text{
+    color:brown;
+}
+body {
+    /* display: flex; */
+    justify-content: center;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+    /* padding: 40px,40px,40px,40px;  */
+    padding-left: 150px;
+    padding-right: 150px ;
+    padding-top: 5px ; 
+      padding-bottom: 5px; 
+      /* width: 100%; */
+    }
+    .Canclebtn{
+        margin-left: 13px;
+        width: 40%;
+    }
+    .bttn1{
+        width: 40%;
+        margin-left: 80px;
+    }
